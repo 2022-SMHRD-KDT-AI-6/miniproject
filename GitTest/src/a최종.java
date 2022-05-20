@@ -8,6 +8,7 @@ public class a최종 {
 		System.out.println("fff");
 		System.out.println("fekjfiejfiej");
 		System.out.println("fejifejifjei");
+	 System.out.println("커밋완료");
 	}
 
 }
