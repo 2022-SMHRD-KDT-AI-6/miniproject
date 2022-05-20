@@ -10,6 +10,7 @@ public class a최종 {
 		System.out.println("fejifejifjei");
 	 System.out.println("커밋완료");
 	 System.out.println("두번쨰 용선 커밋");
+	 System.out.println("세번째 커밋완료!");
 	}
 
 }
